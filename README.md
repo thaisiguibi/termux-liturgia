@@ -42,7 +42,7 @@ pkg install python -y
 
 Clonar o repositório:
 
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/thaisiguibi/termux-liturgia.git
 
 Entrar na pasta:
 
